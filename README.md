@@ -23,8 +23,8 @@ Me especializo en construir soluciones eficientes con **Java, Python, React, Nod
 
 ## 📫 Contacto  
 📧 **Email**: [TuEmail@ejemplo.com]  
-💼 **LinkedIn**: [linkedin.com/in/tuusuario](#)  
-🌐 **Portafolio Web**: [tuusuario.github.io](#)  
+💼 **LinkedIn**: [linkedin.com/in/fernando-bisbal-alvarado](#)  
+🌐 **Portafolio Web**: [Wantan-svn.github.io](#)  
 
 ---
 
